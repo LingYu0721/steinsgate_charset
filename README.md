@@ -1,0 +1,2 @@
+# steinsgate_charset
+一份可用于steam端命运石之门中文版的charset
